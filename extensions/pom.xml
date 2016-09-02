@@ -11,14 +11,13 @@
         <relativePath>..</relativePath>
     </parent>
 
-    <artifactId>socketio-samples</artifactId>
+    <artifactId>socketio-extensions</artifactId>
     <packaging>pom</packaging>
 
-    <name>Socket.IO Samples</name>
-    <description>Socket.IO Java Samples</description>
+    <name>Socket.IO Server Extensions</name>
+    <description>Socket.IO Java Extensions</description>
 
     <modules>
-        <module>chat</module>
         <module>jetty</module>
         <module>tomcat</module>
     </modules>
